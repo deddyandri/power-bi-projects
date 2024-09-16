@@ -5,4 +5,5 @@ Sales performace PT ABC is a microsoft power bi desktop training project that I 
 
 here is the link for the power bi training that I created on udemy.com
 
-[my training on udemy]([https://microsoft.com](https://www.udemy.com/course/menjadi-ahli-data-analitycs-dengan-power-bi/?referralCode=3938D788A63B65EEAA87))
+[my training on udemy](https://www.udemy.com/course/menjadi-ahli-data-analitycs-dengan-power-bi/?referralCode=3938D788A63B65EEAA87)
+
