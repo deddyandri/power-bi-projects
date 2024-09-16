@@ -1,5 +1,4 @@
 # power-bi-projects Sales Performance of PT ABC
-is a collection of power bi desktop projects
 
 Sales performace PT ABC is a microsoft power bi desktop training project that I made 5 years ago and always updated every year, for udemy.com
 
